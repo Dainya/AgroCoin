@@ -1,0 +1,87 @@
+Application path: /fieldgroup/livechat/php/app.php?install-wizard-3
+2016-02-24 21:58:02 [info] Application installed
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-02-24 22:06:43 [info] Failed login, user: root
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-02-24 22:06:48 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-02-24 22:08:09 [info] Log out, user: admin
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-02-24 22:08:33 [info] Successful login, user: dainyathomas@gmail.com
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:08:39 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:08:45 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:08:51 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:08:57 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:02 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:07 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:12 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:17 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:22 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:27 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:32 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:37 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:42 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-get-typing-status
+2016-02-24 22:09:47 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?operator-update-typing-status
+2016-02-24 22:09:52 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+2016-02-24 22:09:52 parse_ini_file(C:\wamp\www\FieldGroup\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+2016-02-24 22:09:52 array_merge(): Argument #1 is not an array on line 102 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+2016-02-24 22:09:52 array_keys() expects parameter 1 to be array, boolean given on line 104 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+2016-02-24 22:09:52 Invalid argument supplied for foreach() on line 104 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+2016-02-24 22:09:52 Invalid argument supplied for foreach() on line 79 in C:\wamp\www\FieldGroup\livechat\php\service\Memory.php
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-02-24 22:10:11 [info] Log out, user: Dainya
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-02-24 22:10:17 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-02-24 22:13:03 [info] Log out, user: admin
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-02-24 22:15:23 [info] Successful login, user: oshyne.hoshing1@gmail.com
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-02-24 22:17:12 [info] Log out, user: oshyne
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-02-24 22:17:19 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php
+2016-02-24 22:28:37 [info] Route / not found
+Application path: /fieldgroup/livechat/php/app.php
+2016-03-02 06:06:21 [info] Route / not found
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:06:42 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-03-02 06:11:16 [info] Log out, user: admin
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:12:17 [info] Failed login, user: dainyathomas@gmail.com
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:12:21 [info] Failed login, user: dainyathomas@gmail.com
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:12:32 [info] Failed login, user: dainyathomas@gmail.com
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:13:07 [info] Successful login, user: oshyne.hoshing1@gmail.com
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-03-02 06:17:42 [info] Log out, user: oshyne
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:18:08 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php?logout
+2016-03-02 06:19:24 [info] Log out, user: admin
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:19:28 [info] Successful login, user: horace@yahoo.com
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-02 06:54:03 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-03 07:53:58 [info] Successful login, user: admin
+Application path: /fieldgroup/livechat/php/app.php?login
+2016-03-03 07:57:12 [info] Successful login, user: oshyne.hoshing1@gmail.com

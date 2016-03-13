@@ -1,0 +1,173 @@
+
+ 
+/* FONTS */
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700,900);
+
+/* OVERALL ASPECT */
+
+body {
+
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    
+    margin-top: 70px;
+}
+
+/* Titles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+
+
+/* Paragraph & Typographic */
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.mt {
+  margin-top: 40px;
+}
+
+
+
+a:hover,
+a:focus {
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:before,
+a:after {
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+/* Bootstrap Modifications */
+ hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+
+/* Green NEWS FEED */
+.green {
+  margin-left:50%;
+
+  
+  background-color: ;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 0px;
+}
+
+.green h3 {
+  color: white;
+  font-weight: 400;
+  margin-bottom: 35px;
+}
+
+.green p {
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+
+
+body {
+  overflow-x: hidden;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+
+#nt-title-container {
+  background: #F2F2F2;
+}
+
+#nt-title {
+}
+
+#nt-title li {
+  font-size: 28px;
+  color: #4E4E4E;
+  white-space: nowrap;
+  list-style: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* News Feed Txt */
+
+#nt-example1 {
+  max-width: 620px;
+  margin: auto;
+}
+
+#nt-example1-container {
+  text-align: center;
+}
+
+#nt-example1-container i {
+  font-size: 36px;
+  margin: 8px;
+  cursor: pointer;
+  -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+}
+
+#nt-example1-container i:hover {
+  color: #333;
+}
+
+#nt-example1 li {
+  color: #4e4e4e;
+  background: #F2F2F2;
+  
+  
+  overflow: hidden;
+  height: 80px;
+  padding: 10px;
+  line-height: 30px;
+  list-style: none;
+  font-size: 22px;
+  text-align: left;
+  border-bottom: 1px dotted #2c8162;
+}
+
+#nt-example1 li:hover {
+  background: #FFF;
+}
+
+
